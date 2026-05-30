@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Rohith M, an aspiring AI/ML & Data Science enthusiast passionate about Machine Learning, Deep Learning, and solving real-world problems using data.<br><br>AI/ML & Data Science : Machine Learning, Deep Learning, Data Analysis, Neural Networks<br><br>Core Languages : Python, SQL, Java, C/C++<br><br>Libraries & Tools : NumPy, Pandas, Matplotlib, Jupyter Notebook, Git/GitHub, VS Code<br><br>Databases : MySQL<br><br>Currently Learning : Advanced Machine Learning, Deep Learning, Data Structures & Algorithms<br>
+I am Rohith M, an aspiring AI/ML & Data Science enthusiast passionate about Machine Learning, Deep Learning, and solving real-world problems using data.<br><br>AI/ML & Data Science : Machine Learning, Deep Learning, Data Analysis, Neural Networks<br><br>Core Languages : Python, SQL, C/C++<br><br>Libraries & Tools : NumPy, Pandas, Matplotlib, Jupyter Notebook, Git/GitHub, VS Code<br><br>Databases : MySQL<br><br>Currently Learning : Advanced Machine Learning, Deep Learning, Data Structures & Algorithms<br>
 
 
 ## 🌐 Socials:
